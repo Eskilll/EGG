@@ -6,7 +6,13 @@ namespace EGG
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            EGG EGG = new EGG();
+            System.Console.WriteLine("Name Your EGG!");
+            EGG.name = System.Console.ReadLine();
+            
+
+
+
         }
     }
 }
