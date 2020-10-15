@@ -1,0 +1,11 @@
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\bin\Debug\netcoreapp3.1\EGG.exe
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\bin\Debug\netcoreapp3.1\EGG.deps.json
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\bin\Debug\netcoreapp3.1\EGG.runtimeconfig.json
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\bin\Debug\netcoreapp3.1\EGG.runtimeconfig.dev.json
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\bin\Debug\netcoreapp3.1\EGG.dll
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\bin\Debug\netcoreapp3.1\EGG.pdb
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\obj\Debug\netcoreapp3.1\EGG.csprojAssemblyReference.cache
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\obj\Debug\netcoreapp3.1\EGG.AssemblyInfoInputs.cache
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\obj\Debug\netcoreapp3.1\EGG.AssemblyInfo.cs
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\obj\Debug\netcoreapp3.1\EGG.dll
+C:\Users\eskil.nordlander\Documents\Visual Studio 2017\Projects\EGG\EGG\obj\Debug\netcoreapp3.1\EGG.pdb
